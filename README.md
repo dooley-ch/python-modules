@@ -41,7 +41,7 @@ The project folder contains the actual application that consumes the lib package
 The src folder contains the application specific code and is defined as a package, so it can be imported as:
 
 ```
-import lib
+import src
 ```
 
 And the test contains various scripts that are used to test the application code.  It to is defined as a package.
